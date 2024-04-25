@@ -33,6 +33,7 @@ User could add the city name and click *Get Weather*, it would display
 ## Setup Guide
 
 Python version: 3.12.2
+
 Set up python 3.12.2 on your local machine
 
 *Recommendation: Use **pyenv** to manage the version and setup a virtual enviorment*
