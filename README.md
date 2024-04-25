@@ -9,10 +9,7 @@ Weather app displays weather information for the city entered by user on the app
 To start the app use *"src/main/py"* file, run following command on the terminal to start the app,
 
 ```
-
 python src/main.py
-
-
 ```
 
 **Note:** If *"python"* , does not work try using *"python3"* *
@@ -43,18 +40,14 @@ Set up python 3.12.2 on your local machine
 Once python is set and have created a virtual enviorment use command given below to install all required packages
 
 ``` 
-
  pip install -r requirements.txt
-
 ```
 
  **Note:** If you face any issues installing packages using following commands to install them individually
 
 ```
-
  pip install requests
  pip install Pillow
-
 ```
 
  Once the set up is done, Create a *".env"* file and add, 
